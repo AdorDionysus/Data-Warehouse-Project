@@ -32,6 +32,16 @@ Building a modern data warehouse with MySql server, including ETL processes, dat
 ![image](https://github.com/user-attachments/assets/6022b145-29d5-4c27-a98a-3b917503b8a4)
 
 
+# DATA TABLES AND VIEWS
+
+![image](https://github.com/user-attachments/assets/a731045b-ba79-475c-80e8-ec50730c4646)
+
+
+
+
+
+
+
 # I CREATE SOME VIEWS TO ANALYZE AND TO CONNECT THE DATA TO OTHER TABLE,  TO MAKE SURE THAT THE DATA IS READY FOR DATA VISUALIZATION
 
 <H3> THIS IS THE SAMPLE OF MY SOME MYSQL QUERIES </H3>
